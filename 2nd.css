@@ -4,13 +4,20 @@ h1{
   padding: 5px 10px;
   border-style: dashed;
   display:inline-block ;
-  margin-top: 200px;
-  margin-left: 250px;
+  height:100%;
+  width:100%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
 }
 body{
   background-color: aqua;
 }
 p{
   font-size: 30px;
-  margin-left:500px;
+  height:100%;
+  width:100%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
 }
